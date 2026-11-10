@@ -1,0 +1,5 @@
+[
+  {"id":"t1","title":"Review Series B term sheet","due":"2026-11-13","priority":"High","status":"open"},
+  {"id":"t2","title":"Approve Q4 hiring plan","due":"2026-11-14","priority":"Medium","status":"open"},
+  {"id":"t3","title":"Prepare keynote outline for TechSummit","due":"2026-11-20","priority":"Low","status":"open"}
+]

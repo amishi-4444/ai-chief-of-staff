@@ -1,0 +1,6 @@
+[
+  {"id":"ev1","title":"Weekly Leadership Sync","date":"2026-11-10","time":"09:30","attendees":["COO","CTO","CFO","VP Sales"]},
+  {"id":"ev2","title":"Series B Investor Call - NorthStar VC","date":"2026-11-10","time":"15:00","attendees":["Priya Sharma","CFO"]},
+  {"id":"ev3","title":"Product Roadmap Review","date":"2026-11-11","time":"11:00","attendees":["Head of Product","CTO"]},
+  {"id":"ev4","title":"Board Sync","date":"2026-11-12","time":"14:00","attendees":["Board Members","CFO"]}
+]

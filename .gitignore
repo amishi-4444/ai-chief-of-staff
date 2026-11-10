@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.sqlite
+chief_of_staff/logs/
+chief_of_staff/reports/

@@ -1,0 +1,5 @@
+[
+  {"id":"g1","goal":"Reach $5M ARR","target":"$5M ARR by 2026-12-31","current":"$3.9M ARR","progress_pct":78,"deadline":"2026-12-31"},
+  {"id":"g2","goal":"Close Series B","target":"$20M raised by 2026-12-15","current":"Term sheet under negotiation","progress_pct":60,"deadline":"2026-12-15"},
+  {"id":"g3","goal":"Launch Enterprise tier","target":"GA release by 2026-11-30","current":"Beta with 6 customers, SSO still pending","progress_pct":55,"deadline":"2026-11-30"}
+]

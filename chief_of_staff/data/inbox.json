@@ -1,0 +1,7 @@
+[
+  {"id":"e1","from":"priya.sharma@northstarvc.com","subject":"Term sheet - response needed by Friday","body":"Hi, attaching the revised term sheet for the Series B. Board sync is Thursday; we need your sign-off on the valuation cap by Friday EOD.","read":false},
+  {"id":"e2","from":"cto@ourcompany.com","subject":"Prod incident postmortem","body":"Tuesday's outage lasted 42 minutes. Root cause was a bad config push. Postmortem doc is ready; need 15 minutes of your time to review before we notify customers.","read":false},
+  {"id":"e3","from":"events@techsummit.io","subject":"Keynote slot confirmed","body":"Confirming your keynote on Dec 3 at 10:30. Please send your bio and AV requirements by Nov 20.","read":false},
+  {"id":"e4","from":"newsletter@saasweekly.com","subject":"This week in SaaS","body":"Top stories: pricing trends, AI copilots, and funding roundup.","read":false},
+  {"id":"e5","from":"alex.m@acmecorp.com","subject":"Partnership intro call","body":"Our VP of Partnerships would love 30 minutes next week to explore an integration. Any slots Tue-Thu afternoon?","read":false}
+]
